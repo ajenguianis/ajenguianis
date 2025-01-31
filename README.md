@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋🏾
 
-<!--
-**ajenguianis/ajenguianis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **GitHub Stats**
+![ajenguianis' GitHub stats](https://github-readme-stats.vercel.app/api?username=ajenguianis&show_icons=true&theme=radical)
+
+#### **Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajenguianis&layout=compact&theme=radical)
+
+---
+
+### Tools & Technologies 🛠️
+Here are some of the tools and technologies I work with:
+
+- **Languages**: PHP, JavaScript, Java  
+- **Frameworks**: Symfony, Laravel, Angular, Spring Boot
+- **Databases**: MySQL, PostgreSQL  
+- **Tools**: Git, Docker, Composer  
+- **Others**: REST APIs, CQRS, OpenAPI
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate! 🌟
