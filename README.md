@@ -4,9 +4,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ---
 
-#### **GitHub Stats**
-![ajenguianis' GitHub stats](https://github-readme-stats.vercel.app/api?username=ajenguianis&show_icons=true&theme=radical)
-
 #### **Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajenguianis&layout=compact&theme=radical)
 
