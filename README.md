@@ -101,10 +101,8 @@ J’ai une solide expérience dans l'**architecture logicielle**, la **gestion d
 
 ## 📈 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajenguianis&show_icons=true&theme=tokyonight " alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajenguianis&layout=compact&theme=tokyonight " alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajenguianis&show_icons=true&theme=tokyonight )
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajenguianis&layout=compact&theme=tokyonight )
 
 ---
 
