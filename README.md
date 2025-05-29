@@ -21,6 +21,13 @@ J’ai une solide expérience dans l'**architecture logicielle**, la **gestion d
 
 ---
 
+## 📈 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajenguianis&show_icons=true&theme=tokyonight )
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajenguianis&layout=compact&theme=tokyonight )
+
+---
+
 ## 🛠️ Compétences
 
 ### ✅ Architecture Logicielle
@@ -96,13 +103,6 @@ J’ai une solide expérience dans l'**architecture logicielle**, la **gestion d
 
 ### 📦 [musicSphereApi](https://github.com/ajenguianis/musicSphereApi )  
 **Description** : Une API RESTful Symfony 6 pour gérer des bandes musicales, leurs membres, des concerts, des salles de concert, et des importations de fichiers.
-
----
-
-## 📈 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajenguianis&show_icons=true&theme=tokyonight )
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajenguianis&layout=compact&theme=tokyonight )
 
 ---
 
