@@ -76,7 +76,7 @@ J’ai une solide expérience dans l'**architecture logicielle**, la **gestion d
 
 ## 🧩 Projets Clés
 
-### 📦 [symfony-git-review]([https://github.com/anisajengui/symfony-git-review](https://github.com/ajenguianis/symfony-git-review))
+### 📦 [symfony-git-review](https://github.com/ajenguianis/symfony-git-review)
 **Description**: A reusable shell script for generating automated code review prompts for Symfony projects. It analyzes Git diffs, scans project context, and creates detailed review prompts focusing on Symfony best practices, clean architecture (CQRS, DDD, SOLID), and code quality. Supports AI integration (GitHub Copilot, Claude, GPT) and stores outputs in `.vscode/` for git-ignored local storage.
 
 ---
