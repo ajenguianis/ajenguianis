@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajenguianis&label=Profile%20views&color=0e75b6&style=flat " alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ajenguianis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -23,8 +23,8 @@ J’ai une solide expérience dans l'**architecture logicielle**, la **gestion d
 
 ## 📈 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajenguianis&show_icons=true&theme=tokyonight )
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajenguianis&layout=compact&theme=tokyonight )
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajenguianis&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajenguianis&layout=compact&theme=tokyonight)
 
 ---
 
@@ -76,42 +76,47 @@ J’ai une solide expérience dans l'**architecture logicielle**, la **gestion d
 
 ## 🧩 Projets Clés
 
-### 📦 [prompt-engineering-library](https://github.com/ajenguianis/prompt-engineering-library )  
-**Description** : Une bibliothèque collaborative de prompts optimisés pour utiliser efficacement les outils d’IA dans le développement logiciel et les opérations IT.
+### 📦 [symfony-git-review](https://github.com/anisajengui/symfony-git-review)
+**Description**: A reusable shell script for generating automated code review prompts for Symfony projects. It analyzes Git diffs, scans project context, and creates detailed review prompts focusing on Symfony best practices, clean architecture (CQRS, DDD, SOLID), and code quality. Supports AI integration (GitHub Copilot, Claude, GPT) and stores outputs in `.vscode/` for git-ignored local storage.
 
 ---
 
-### 📦 [ftp-sftp-connector](https://github.com/ajenguianis/ftp-sftp-connector )  
-**Description** : Un **librairie PHP** qui simplifie le travail avec les protocoles **FTP et SFTP**, offrant une interface facile à utiliser pour le transfert de fichiers, la liste des répertoires distants, etc.
+### 📦 [prompt-engineering-library](https://github.com/ajenguianis/prompt-engineering-library)
+**Description**: Une bibliothèque collaborative de prompts optimisés pour utiliser efficacement les outils d’IA dans le développement logiciel et les opérations IT.
 
 ---
 
-### 📦 [easy-file-parser](https://github.com/ajenguianis/easy-file-parser )  
-**Description** : Une librairie PHP conçue pour **parser divers formats de fichiers** tels que **TXT, CSV et XLSX**. Elle fournit des composants réutilisables pour une extraction et une manipulation efficaces des données.
+### 📦 [ftp-sftp-connector](https://github.com/ajenguianis/ftp-sftp-connector)
+**Description**: Un **librairie PHP** qui simplifie le travail avec les protocoles **FTP et SFTP**, offrant une interface facile à utiliser pour le transfert de fichiers, la liste des répertoires distants, etc.
 
 ---
 
-### 📦 [ps-module-setting](https://github.com/ajenguianis/ps-module-setting )  
-**Description** : Une librairie PHP destinée à **gérer et récupérer les paramètres de configuration** dans les projets **PrestaShop**. Elle permet de gérer les configurations via une base de données ou un fichier `.env`.
+### 📦 [easy-file-parser](https://github.com/ajenguianis/easy-file-parser)
+**Description**: Une librairie PHP conçue pour **parser divers formats de fichiers** tels que **TXT, CSV et XLSX**. Elle fournit des composants réutilisables pour une extraction et une manipulation efficaces des données.
 
 ---
 
-### 📦 [musicSphereAngularApp](https://github.com/ajenguianis/musicSphereAngularApp )  
-**Description** : Une application Angular 18 pour la gestion de musiciens, groupes, concerts et salles. Elle s'appuie sur l'API backend développée avec **Symfony**.
+### 📦 [ps-module-setting](https://github.com/ajenguianis/ps-module-setting)
+**Description**: Une librairie PHP destinée à **gérer et récupérer les paramètres de configuration** dans les projets **PrestaShop**. Elle permet de gérer les configurations via une base de données ou un fichier `.env`.
 
 ---
 
-### 📦 [musicSphereApi](https://github.com/ajenguianis/musicSphereApi )  
-**Description** : Une API RESTful Symfony 6 pour gérer des bandes musicales, leurs membres, des concerts, des salles de concert, et des importations de fichiers.
+### 📦 [musicSphereAngularApp](https://github.com/ajenguianis/musicSphereAngularApp)
+**Description**: Une application Angular 18 pour la gestion de musiciens, groupes, concerts et salles. Elle s'appuie sur l'API backend développée avec **Symfony**.
+
+---
+
+### 📦 [musicSphereApi](https://github.com/ajenguianis/musicSphereApi)
+**Description**: Une API RESTful Symfony 6 pour gérer des bandes musicales, leurs membres, des concerts, des salles de concert, et des importations de fichiers.
 
 ---
 
 ## 🌐 Où me trouver
 
-- 📘 [CV en ligne](https://ajenguianis.github.io/cv-Anis-Ajengui/ )
+- 📘 [CV en ligne](https://ajenguianis.github.io/cv-Anis-Ajengui/)
 - 📧 [Email](mailto:anis.ajengui@gmail.com)
-- 📘 [LinkedIn](https://www.linkedin.com/in/anis-ajengui-93560789/ )
-- 📦 [GitHub](https://github.com/ajenguianis )
+- 📘 [LinkedIn](https://www.linkedin.com/in/anis-ajengui-93560789/)
+- 📦 [GitHub](https://github.com/ajenguianis)
 
 ---
 
