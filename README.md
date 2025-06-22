@@ -76,6 +76,9 @@ J’ai une solide expérience dans l'**architecture logicielle**, la **gestion d
 
 ## 🧩 Projets Clés
 
+### 📦 [ux-analyzer](https://github.com/ajenguianis/ux-analyzer)
+**Description**: A Node.js tool for UI/UX analysis and modernization, extracting styles, accessibility, and performance metrics from web pages (e.g., Brevo’s Next.js/Tailwind sites). Detects frameworks (Tailwind, Bootstrap), analyzes colors/typography, audits WCAG 2.1, and generates AI-ready prompts. Features screenshots, performance metrics (FCP, LCP), and deep analysis mode.
+
 ### 📦 [symfony-git-review](https://github.com/ajenguianis/symfony-git-review)
 **Description**: A reusable shell script for generating automated code review prompts for Symfony projects. It analyzes Git diffs, scans project context, and creates detailed review prompts focusing on Symfony best practices, clean architecture (CQRS, DDD, SOLID), and code quality. Supports AI integration (GitHub Copilot, Claude, GPT) and stores outputs in `.vscode/` for git-ignored local storage.
 
